@@ -24,5 +24,5 @@ Bu çalışmada, bir bankacılık kurumunun telefon aramalarına dayalı veri se
 
 ## 🚀 Başlangıç
 Projeyi incelemek için:
-1. Yukarıdaki dosya listesinden `ML_Banka.ipynb` dosyasına tıklayarak kodları ve grafikleri tarayıcı üzerinden görebilirsiniz.
+1. Yukarıdaki dosya listesinden `ML_Bank.ipynb` dosyasına tıklayarak kodları ve grafikleri tarayıcı üzerinden görebilirsiniz.
 2. Yerel bilgisayarınızda çalıştırmak için depoyu klonlayıp gerekli kütüphaneleri kurmanız yeterlidir.
