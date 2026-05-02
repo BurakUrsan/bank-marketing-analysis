@@ -19,7 +19,7 @@ Bu çalışmada, bir bankacılık kurumunun telefon aramalarına dayalı veri se
 - **XGBoost & Optuna** (Model iyileştirme ve hiperparametre optimizasyonu)
 
 ## 📁 Dosya Yapısı
-- `ML_Banka.ipynb`: Tüm analiz, görselleştirme ve modelleme kodlarını içeren Jupyter Notebook.
+- `ML_Bank.ipynb`: Tüm analiz, görselleştirme ve modelleme kodlarını içeren Jupyter Notebook.
 - `bank.csv`: Analiz için kullanılan veri seti dosyası.
 
 ## 🚀 Başlangıç
