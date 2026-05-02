@@ -2,7 +2,7 @@
 
 ### Veri Madenciliği + Keşifçi Veri Analizi (EDA) + Makine Öğrenmesi Modelleri
 
-Bu proje, bir bankanın doğrudan pazarlama kampanyalarının sonuçlarını analiz eden ve müşterilerin mevduat hesabı açıp açmayacağını tahmin eden uçtan uca bir veri bilimi projesidir.[cite: 1]
+Bu proje, bir bankanın doğrudan pazarlama kampanyalarının sonuçlarını analiz eden ve müşterilerin mevduat hesabı açıp açmayacağını tahmin eden uçtan uca bir veri bilimi projesidir.
 
 ## 📌 Proje Özeti
 Bu çalışmada, bir bankacılık kurumunun telefon aramalarına dayalı veri seti kullanılmıştır. Amacımız, makine öğrenimi algoritmaları kullanarak müşteri davranış örüntülerini tespit etmek ve bankanın kaynaklarını doğru müşterilere yönlendirmesini sağlamaktır.
